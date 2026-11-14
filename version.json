@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "3.8",
-  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.8/app-debug.apk",
-  "notas": "Reproductor a pantalla completa sin la barra de la web."
+  "versionCode": 18,
+  "versionName": "3.9",
+  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.9/app-debug.apk",
+  "notas": "Al terminar una pelicula vuelve a su ficha. Reproduccion mas rapida."
 }
