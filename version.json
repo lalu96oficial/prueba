@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "3.14",
-  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.14/app-debug.apk",
-  "notas": "Miniatura de Peliculas FHD con texto mas legible."
+  "versionCode": 24,
+  "versionName": "3.15",
+  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.15/app-debug.apk",
+  "notas": "Tarjetas de carpetas en proporcion 2:3 para que se vea la miniatura completa."
 }
