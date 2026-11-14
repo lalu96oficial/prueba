@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "3.7",
-  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.7/app-debug.apk",
-  "notas": "Corrige la selección de carpetas y películas en el televisor."
+  "versionCode": 17,
+  "versionName": "3.8",
+  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.8/app-debug.apk",
+  "notas": "Reproductor a pantalla completa sin la barra de la web."
 }
