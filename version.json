@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "3.16",
-  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.16/app-debug.apk",
-  "notas": "Adaptacion para moviles Android: login, ficha y carpetas."
+  "versionCode": 26,
+  "versionName": "3.17",
+  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.17/app-debug.apk",
+  "notas": "Corrige que no se abrian las carpetas al tocar en el movil."
 }
