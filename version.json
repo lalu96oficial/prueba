@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "3.10",
-  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.10/app-debug.apk",
-  "notas": "Marco de foco morado en listas, rejilla y boton Reproducir."
+  "versionCode": 20,
+  "versionName": "3.11",
+  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.11/app-debug.apk",
+  "notas": "Carpetas estilo Emby: miniatura arriba y nombre debajo."
 }
