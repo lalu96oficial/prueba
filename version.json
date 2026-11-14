@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "3.6",
-  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.6/app-debug.apk",
-  "notas": "Reproductor dentro de la app y carpetas con portadas."
+  "versionCode": 16,
+  "versionName": "3.7",
+  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.7/app-debug.apk",
+  "notas": "Corrige la selección de carpetas y películas en el televisor."
 }
