@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "3.11",
-  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.11/app-debug.apk",
-  "notas": "Carpetas estilo Emby: miniatura arriba y nombre debajo."
+  "versionCode": 21,
+  "versionName": "3.12",
+  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.12/app-debug.apk",
+  "notas": "Miniatura propia para la carpeta Peliculas FHD."
 }
