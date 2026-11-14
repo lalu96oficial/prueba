@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.13",
-  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.13/app-debug.apk",
-  "notas": "Quita el texto bajo la miniatura de Peliculas FHD."
+  "versionCode": 23,
+  "versionName": "3.14",
+  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.14/app-debug.apk",
+  "notas": "Miniatura de Peliculas FHD con texto mas legible."
 }
