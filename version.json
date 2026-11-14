@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "3.4",
-  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.4/app-debug.apk",
-  "notas": "Actualización automática al abrir la app, carpetas y ficha con sinopsis."
+  "versionCode": 15,
+  "versionName": "3.6",
+  "apk": "https://github.com/lalu96oficial/prueba/releases/download/v3.6/app-debug.apk",
+  "notas": "Reproductor dentro de la app y carpetas con portadas."
 }
